@@ -1,0 +1,204 @@
+{
+    "destinationsData": [
+      {
+        "id": 0,
+        "name": "Wadi Assiut",
+        "tours": "5 hotel stay options",
+        "image": "../assets/imges/tour/cancun.gif",
+        "link": "tour-name",
+        "shortDes": ""
+      },
+      {
+        "id": 1,
+        "name": "Al-Muharraq",
+        "tours": "9 hotel stay options",
+        "image": "../assets/imges/tour/cancun.png",
+        "link": "tour-name"
+      },
+      {
+        "id": 2,
+        "name": "Al-Firdous",
+        "tours": "5 hotel stay options",
+        "image": "../assets/imges/tour/cancun2.gif",
+        "link": "tour-name"
+      },
+      {
+        "id": 3,
+        "name": "Tourist Village",
+        "tours": "4 hotel stay options",
+        "image": "../assets/imges/tour/cancun3.gif",
+        "link": "tour-name"
+      },
+      {
+        "id": 4,
+        "name": "Nile",
+        "tours": "9 hotel stay options ",
+        "image": "../assets/imges/tour/cancun4.gif",
+        "link": "tour-name"
+      },
+      {
+        "id": 5,
+        "name": "Assiut",
+        "tours": "4 hotel stay options",
+        "image": "../assets/imges/tour/cancun5.gif",
+        "link": "tour-name"
+      },
+      {
+        "id": 6,
+        "name": "Durunka Monastery",
+        "tours": "6 hotel stay options",
+        "image": "../assets/imges/tour/cancun6.gif",
+        "link": "tour-name"
+      },
+      {
+        "id": 7,
+        "name": "Assiut Barrage",
+        "tours": "4 hotel stay options",
+        "image": "../assets/imges/tour/cancun7.gif",
+        "link": "tour-name"
+      }
+    ],
+    "popularsData": [
+      {
+        "id": 0,
+        "title": "Stay at Al-Muharraq Monastery",
+        "image": "../assets/imges/popular/Kiwiana-Panorama.gif",
+        "location": "Qusiya, Assiut, Egypt",
+        "category": ["Spiritual Retreat", "Historical Tour"],
+        "days": "3 days - 2 nights",
+        "price": 100,
+        "afterDiscount": 92,
+        "rating": 3,
+        "reviews": 5
+      },
+      {
+        "id": 1,
+        "title": "Explore Wadi Assiut",
+        "image": "../assets/imges/popular/Kiwiana-Panorama2.gif",
+        "location": "Wadi Assiut, Assiut, Egypt",
+        "category": ["Nature Tour"],
+        "days": "1 day trip",
+        "price": 87,
+        "afterDiscount": 82,
+        "rating": 4,
+        "reviews": 9
+      },
+      {
+        "id": 2,
+        "title": "Relax at Assiut Tourist Village",
+        "image": "../assets/imges/popular/Kiwiana-Panorama3.gif",
+        "location": "Assiut City, Egypt",
+        "category": ["Family Stay", "Relaxation"],
+        "days": "2 days - 1 night",
+        "price": 87,
+        "afterDiscount": 82,
+        "rating": 4,
+        "reviews": 9
+      },
+      {
+        "id": 3,
+        "title": "Visit Meir Monastery",
+        "image": "../assets/imges/popular/Kiwiana Panorama.jpg",
+        "location": "Meir Village, Assiut, Egypt",
+        "category": ["Historical Tour", "Religious Sites"],
+        "days": "Half-day trip",
+        "price": 434,
+        "afterDiscount": 0,
+        "rating": 5,
+        "reviews": 20
+      },
+      {
+        "id": 4,
+        "title": "Al-Firdous Park Picnic",
+        "image": "../assets/imges/popular/Kiwiana-Panorama4.gif",
+        "location": "Assiut City, Egypt",
+        "category": ["Family Outing", "Nature"],
+        "days": "Full day",
+        "price": 395,
+        "afterDiscount": 0,
+        "rating": 3,
+        "reviews": 12
+      },
+      {
+        "id": 5,
+        "title": "Historical Tour at Durunka Monastery",
+        "image": "../assets/imges/popular/Kiwiana-Panorama5.gif",
+        "location": "Durunka, Assiut, Egypt",
+        "category": ["Religious Tour", "Cultural Experience"],
+        "days": "1 day",
+        "price": 93,
+        "afterDiscount": 0,
+        "rating": 3,
+        "reviews": 12
+      },
+      {
+        "id": 6,
+        "title": "Discover Assiut Barrage",
+        "image": "../assets/imges/popular/Kiwiana-Panorama6.gif",
+        "location": "Assiut Barrage, Egypt",
+        "category": ["Engineering Marvel", "Photography"],
+        "days": "Half-day trip",
+        "price": 42,
+        "afterDiscount": 0,
+        "rating": 5,
+        "reviews": 18
+      },
+      {
+        "id": 7,
+        "title": "Cultural Night in Bani Adi",
+        "image": "../assets/imges/popular/Kiwiana-Panorama7.gif",
+        "location": "Bani Adi, Assiut, Egypt",
+        "category": ["Cultural Experience", "Traditional Music"],
+        "days": "1 night",
+        "price": 99,
+        "afterDiscount": 0,
+        "rating": 4,
+        "reviews": 22
+      }
+    ],
+    "team": [
+  {
+    "image": "../assets/imges/team/team-1.jpg",
+    "name": "Ahmed Al-Mansoori",
+    "designation": "General Manager"
+  },
+  {
+    "image": "../assets/imges/team/team-1.gif",
+    "name": "Sara Al-Farsi",
+    "designation": "Guest Relations Manager"
+  },
+  {
+    "image": "../assets/imges/team/team-2.gif",
+    "name": "Mohammed Al-Harbi",
+    "designation": "Head Chef"
+  },
+  {
+    "image": "../assets/imges/team/team-3.gif",
+    "name": "Ahmed Al-Saleh",
+    "designation": "Marketing Manager"
+  }
+],
+ "socialIcons": [
+    {
+      "icon": "FaFacebookF",
+      "name": "Facebook"
+    },
+    {
+      "icon": "FaTwitter",
+      "name": "Twitter"
+    },
+    {
+      "icon": "FaInstagram",
+      "name": "Instagram"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "FaYoutube",
+      "name": "YouTube"
+    }
+  ]
+  }
+  
