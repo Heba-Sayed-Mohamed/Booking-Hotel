@@ -156,6 +156,56 @@
         "reviews": 22
       }
     ],
+    "room":[
+      {
+        "hotelId": 1,
+        "type": "Single",
+        "price": 50,
+        "image": "../assets/imges/room/roomS.gif"
+      },
+      {
+        "hotelId": 2,
+        "type": "Double",
+        "price": 80,
+        "image": "../assets/imges/room/roomd.gif"
+      },
+      {
+        "hotelId": 3,
+        "type": "Family",
+        "price": 120,
+        "image": "../assets/imges/room/roomf3.gif"
+      },
+      {
+        "hotelId": 4,
+        "type": "Single",
+        "price": 60,
+        "image": "../assets/imges/room/roomS2.gif"
+      },
+      {
+        "hotelId": 5,
+        "type": "Double",
+        "price": 90,
+        "image": "../assets/imges/room/roomd2.gif"
+      },
+      {
+        "hotelId": 6,
+        "type": "Family",
+        "price": 140,
+        "image": "../assets/imges/room/roomf2.gif"
+      },
+      {
+        "hotelId": 7,
+        "type": "Single",
+        "price": 70,
+        "image": "../assets/imges/room/roomS3.gif"
+      },
+      {
+        "hotelId": 8,
+        "type": "Family",
+        "price": 100,
+        "image": "../assets/imges/room/roomf.gif"
+      }
+    ],
     "team": [
   {
     "image": "../assets/imges/team/team-1.jpg",

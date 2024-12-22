@@ -1,0 +1,35 @@
+.booking {
+    background: url("../assets/imges/slider/2.gif") no-repeat; 
+    padding: 88px 0px;
+    background-size: 500px cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 1;
+  }
+  .overlaybooking {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: #00000054;
+    z-index: -1;
+  }
+  .booking-formr{
+    margin-bottom: 40px;
+  }
+  @media only screen and (max-width: 1199px) {
+    .booking {
+      overflow: hidden;
+    }
+  
+    
+  }
+  
+  @media only screen and (max-width: 420px) {
+    .booking {
+      overflow: hidden;
+    }
+    
+  }

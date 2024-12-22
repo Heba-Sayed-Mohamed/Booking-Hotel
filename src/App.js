@@ -13,6 +13,8 @@ import Header2 from './Component/header/Header2';
 import { ColorModeContext, useMode } from "./Pages/Theme";
 import Footer from './Component/footer/Footer';
 import './App.css'
+import Room from './Pages/Room';
+import Booking from './Pages/Booking';
 
 function App() {
    const [theme, colorMode] = useMode();
@@ -30,6 +32,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
         <Route path="/Contact" element={<Contact />} />
+        <Route path="/Room" element={<Room/>}/>
+        <Route path='/booking/:hotelId' element={<Booking/>}/>
       </Routes>
       <Footer/>
       </ThemeProvider>

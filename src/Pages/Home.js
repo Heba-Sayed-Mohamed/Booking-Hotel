@@ -3,7 +3,7 @@ import Banner from '../Component/Banner/Banner';
 import AdvanceSearch from '../Component/AdvanceSearch/AdvanceSearch';
 import Features from '../Component/Features/Features';
 
-import { Container, Row, Col,  } from "react-bootstrap";
+import { Container, Row, Col  } from "react-bootstrap";
 
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";

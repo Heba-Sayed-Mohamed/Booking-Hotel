@@ -1,0 +1,32 @@
+.room {
+    /* background: url("../assets/imges/slider/1.jpg") no-repeat; */
+    padding: 88px 0px;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 1;
+  }
+  .overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: #00000054;
+    z-index: -1;
+  }
+  @media only screen and (max-width: 1199px) {
+    .room {
+      overflow: hidden;
+    }
+  
+    
+  }
+  
+  @media only screen and (max-width: 420px) {
+    .room {
+      overflow: hidden;
+    }
+    
+  }
