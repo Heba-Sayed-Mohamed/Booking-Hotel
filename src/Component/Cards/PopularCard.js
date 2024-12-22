@@ -7,9 +7,10 @@ const PopularCard = ({ val }) => {
   return (
     <NavLink 
   className="body-text text-dark text-decoration-none" 
-  to={{ pathname: "/room", state: { roomImage: val.image } }} 
+  to={`/room?roomImage=${encodeURIComponent(val.image)}`}
   
 >
+  
       <Card className="rounded-2 shadow-sm popular">
         <Card.Img
           variant="top"

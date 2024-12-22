@@ -8,9 +8,9 @@ import './room.css';
 function Room() {
     const [priceRange, setPriceRange] = useState([0, 150]);
     const location = useLocation(); 
-    const roomImage = location.state?.roomImage || ""; 
-    console.log(location.state);
-    console.log(roomImage);
+    const params = new URLSearchParams(location.search);
+    const roomImage = params.get("roomImage") || "";
+    
 
     const filteredRooms = data.room.filter(
         (room) => room.price >= priceRange[0] && room.price <= priceRange[1]
